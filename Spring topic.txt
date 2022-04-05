@@ -1,0 +1,28 @@
+      Spring core module
+      -------------------
+ 1.Types of dependency injection.
+ a)Setter injection.
+ b)Constructor injection
+
+2.FactoryMethod
+a)Instance factory method
+b)Static factory method
+
+#Spring core annotation
+@Congurartion
+@Required
+@Repository
+@Order
+
+@Autowoied
+@Qulifier
+@Scope
+@Component
+@Service
+@Controller
+@Bean
+@Values
+
+
+Spring mvc workflow
+-------------------
